@@ -58,9 +58,3 @@
 .DS_Store
 .AppleDouble
 .LSOverride
-
-# Generated files
-*.wav
-*.mp3
-*.aac
-*.ogg 
