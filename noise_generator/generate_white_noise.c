@@ -1,5 +1,6 @@
 /*
  * 白噪音生成器
+ * Author: odcowl
  * 
  * 用法：./generate_white_noise <输出文件名> <通道数> <采样率> <时长>
  * 
@@ -15,6 +16,7 @@
  * 
  * 示例：
  * ./generate_white_noise output.wav 2 44100 10  # 生成10秒的立体声白噪音，采样率44.1kHz
+
  */
 
 #include <stdio.h>
