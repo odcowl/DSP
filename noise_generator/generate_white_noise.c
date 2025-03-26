@@ -17,7 +17,7 @@
  * ./generate_white_noise output.wav 2 44100 10  # 生成10秒的立体声白噪音，采样率44.1kHz
  */
 
-//#include <stdio.h>
+#include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
 #include <sndfile.h>
